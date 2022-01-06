@@ -13,7 +13,7 @@ Clone this repository, and create local environment with python3.6, and then run
 
 ### (1) Download the dataset
 
-Download our data (512 examples) from this [link](https://zhec.github.io/mow.zip).
+Download our data (512 examples) from this [link](https://zhec.github.io/rhoi/mow.zip).
 
 ### (2) Visualize the example
 ```bash
