@@ -1,4 +1,4 @@
-## <b>MOW dataset</b> [[Website]](https://people.eecs.berkeley.edu/~zhecao/rhoi/)
+## <b>MOW dataset</b> [[Website]](https://zhec.github.io/rhoi/)
 
 <div align=center>
 <img src="assets/teaser.png" width=95%>
